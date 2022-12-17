@@ -12,7 +12,6 @@ while ($i < $arrayLen) {
 }
 ?>
 
-
 <h1> Array with for loop</h1>
 
 <?php for ($i = 0; $i < $arrayLen; $i++) {
@@ -25,7 +24,7 @@ while ($i < $arrayLen) {
     echo $data . "<br />";
 } ?>
 
-<h1> Array with DoWhile loop</h1>
+<h1> Array with Do while loop</h1>
 
 <?php $k = 0;
 
