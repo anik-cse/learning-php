@@ -29,6 +29,7 @@
         case "Sunday":
             echo "Today is Sunday.";
             break;
+        default: "Date in invalid"
     }
 
 ?>
